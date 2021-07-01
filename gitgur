@@ -28,6 +28,14 @@
         "zetaaascan": "/proxy/api/imgur/chapter/NFhdDkK/"
       },
       "last_updated": "1625062018"
+    },
+    "04": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "groups": {
+        "zetaaascan": "/proxy/api/imgur/chapter/XHJYUES/"
+      },
+      "last_updated": "1625121621"
     }
   }
 }

@@ -36,6 +36,24 @@
         "zetaaascan": "/proxy/api/imgur/chapter/XHJYUES/"
       },
       "last_updated": "1625121621"
+    },
+        },
+    "05": {
+      "title": "Chapter 5",
+      "volume": "1",
+      "groups": {
+        "zetaaascan": "/proxy/api/imgur/chapter/9gZBYwN/"
+      },
+      "last_updated": "1625653641"
+    },
+        },
+    "06": {
+      "title": "Chapter 6",
+      "volume": "1",
+      "groups": {
+        "zetaaascan": "/proxy/api/imgur/chapter/e7DzjHJ/"
+      },
+      "last_updated": "1625653641"
     }
   }
 }

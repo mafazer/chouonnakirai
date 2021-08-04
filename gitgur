@@ -1,9 +1,9 @@
 {
   "title": "Aku yang Sangat Membenci Wanita, Pindahan ke Sekolah Khusus Wanita di Isekai.",
-  "description": "Tipikal manga isekai-harem yang biasa kamu baca ( ͡° ͜ʖ ͡°)",
+  "description": "Bukan manga isekai-harem seperti yang biasa kamu baca",
   "artist": "dorianpanda",
   "author": "dorianpanda",
-  "cover": "https://xcdn-000.animemark.com/pictures/W600/9ab/9abdbc576c41e61fc92ec9ccb30f4e692a610abb_650_921_210529.jpeg",
+  "cover": "https://i.imgur.com/f1a65wY.jpg",
   "chapters": {
     "01": {
       "title": "Chapter 1",
@@ -44,14 +44,38 @@
         "zetaaascan": "/proxy/api/imgur/chapter/9gZBYwN/"
       },
       "last_updated": "1625653972"
-    },
-    "06": {
+          },
+    "05": {
       "title": "Chapter 6",
       "volume": "1",
       "groups": {
         "zetaaascan": "/proxy/api/imgur/chapter/e7DzjHJ/"
       },
       "last_updated": "1625653972"
+          },
+    "05": {
+      "title": "Chapter 7",
+      "volume": "1",
+      "groups": {
+        "zetaaascan": "/proxy/api/imgur/chapter/VBQGZA6/"
+      },
+      "last_updated": "1628061018"
+          },
+    "05": {
+      "title": "Chapter 8",
+      "volume": "1",
+      "groups": {
+        "zetaaascan": "/proxy/api/imgur/chapter/QnJfvB9/"
+      },
+      "last_updated": "1628061018"
+    },
+    "06": {
+      "title": "Chapter 9",
+      "volume": "1",
+      "groups": {
+        "zetaaascan": "/proxy/api/imgur/chapter/8qxDrjU/"
+      },
+      "last_updated": "1628061018"
     }
   }
 }
